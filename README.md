@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Rabbitboy2
-- 👀 I’m interested in railways and roblox
 - 🌱 I’m currently learning python and other stuff
-- 💞️ I’m looking to collaborate on not sure yet
+- 🖩 Making silly little CG100 games for fun
 - 📫 How to reach me: discord: rabbittboygaming
